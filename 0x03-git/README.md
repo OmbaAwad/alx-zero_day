@@ -1,1 +1,2 @@
+git pull
 Ombasha Awad
